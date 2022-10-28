@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(https://shahnawazcoding.github.io/superfonts-api/fonts/roboto/roboto-medium.ttf);
+}
+@font-face {
+    font-family: "Saira";
+    src: url(https://shahnawazcoding.github.io/superfonts-api/fonts/saira/saira-medium.ttf);
+}
+@font-face {
+    font-family: "SairaCondensed";
+    src: url(https://shahnawazcoding.github.io/superfonts-api/fonts/saira_condensed/sairacondensed-medium.ttf);
+}
+@font-face {
+    font-family: "SairaExtraCondensed";
+    src: url(https://shahnawazcoding.github.io/superfonts-api/fonts/saira_extra_condensed/sairaextracondensed-medium.ttf);
+}
+@font-face {
+    font-family: "SairaSemiCondensed";
+    src: url(https://shahnawazcoding.github.io/superfonts-api/fonts/saira_semi_condensed/sairasemicondensed-medium.ttf);
+}
+@font-face {
+    font-family: "SairaStencilOne";
+    src: url(https://shahnawazcoding.github.io/superfonts-api/fonts/saira_stencil_one/sairastencilone-regular.ttf);
+}
